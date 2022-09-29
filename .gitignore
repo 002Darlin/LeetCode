@@ -7,3 +7,5 @@
 .idea/
 out/
 leetcode/editor/cn/doc
+cmake-build-debug/
+CMakeLists.txt
